@@ -3,7 +3,7 @@ syntax = "proto3";
 import "google/protobuf/empty.proto";
 package ioam_trace;
 
-option go_package = ".;ioam_trace";
+option go_package = "./;ioam_trace";
 
 service IOAMService {
 	rpc Report (IOAMTrace) returns (google.protobuf.Empty) {}
