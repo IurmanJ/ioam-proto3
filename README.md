@@ -1,4 +1,4 @@
-# ioam-proto3
+# IOAM Trace API with Protocol Buffers v3
 
 Representation of an IOAM trace with Protocol Buffers v3, based on the [Data Fields for In-situ OAM](https://tools.ietf.org/html/draft-ietf-ippm-ioam-data) draft.
 
